@@ -2,7 +2,9 @@ Developing a plugin for Unity Engine to streamline VRChat word and avatar develo
 
 Unity development and VRChat development in particular are large industries and provide awesome growth in a relatively unexplored area.
 
-Accses to VR devices is not required to develop for the platform.
+Access to VR devices is not required to develop for the platform.
+Unity programming is done predominately in C# and JavaScript. If you have experience with these, this project will be incredibly straightforward.
+Udon# is essentially a dialect of C#, used to sandbox VRChat worlds which run as essentially a multiplayer container for Unity games.
 
 I am: Bryce Bible - Unity, C#/C++/C/Python/JS/PHP
 bbible3@vols.utk.edu
