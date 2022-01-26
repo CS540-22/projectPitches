@@ -1,4 +1,4 @@
-Developing a plugin for Unity Engine to streamline VRChat word and avatar development - including features like GLSL to HLSL shader conversion, guides for using VRChat’s custom Udon# programming language and built in animation systems, snippet searching and automation, as well as code conversion for Udon# coding.
+Developing a plugin for Unity Engine to streamline VRChat world and avatar development, and Unity development in general - including features like GLSL to HLSL shader conversion, guides for using VRChat’s custom Udon# programming language and built in animation systems, snippet searching and automation, as well as code conversion for Udon# coding.
 
 We can determine specifically what features to implement as a team based on interest & time. Definitely open to adding other features to this project, so you can pursue whatever you find interesting along the way.
 
