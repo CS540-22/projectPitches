@@ -7,7 +7,7 @@ The aim of this tool is to alleviate the stress of recalling previously
 used commands and having to type them out by creating a more visual
 and interactive terminal experience.
 
-Take, for instance, compiling C++ code. Simpler compilation commands are
+Take, for example, compiling C++ code. Simpler compilation commands are
 easy to remember, but ultimately there are a multitude of flags that can
 change the compilation result and it can be hard to recall them
 whenever a particular set of flags may be needed.
