@@ -13,4 +13,9 @@ Udon# is essentially a dialect of C#, used to sandbox VRChat worlds which run as
 I am: Bryce Bible - Unity, C#/C++/C/Python/JS/PHP
 bbible3@vols.utk.edu
 
+Additional project members:
+Damian Seals
+
+Still looking for 1-2 more members.
+
 I have discussed this with a couple of individuals. If you have interest in or experience with any of the above topics, please reach out!
