@@ -29,3 +29,5 @@ Architecture: We have a persistent database running 24/7 on a Raspberry Pi. For 
 Features and technologies are not set in stone, just first thoughts.
 
 Current team is Isaac Sikkema (me) and Phillip Hicks. Hoping for one more person.
+
+Email isikkema@vols.utk.edu if interested.
