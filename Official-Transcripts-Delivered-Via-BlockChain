@@ -1,0 +1,10 @@
+Often times, an individual is required to provide an offical transcript from the university that conferred their degree onto them; this takes time (and often money)
+for the university to locate the records and to then send them to the requesting entity. 
+
+Blockchain technology is, at its core, an immutable public ledger; the proposed project would be a system in which student's official transcripts are first
+encrypted with a secret key that is shared only with the entity that is to recieve the offical transcript. This encrypted transcript would then be signed using 
+the university's private key before being appended to the blockchain. The university's public key would then be used the verify that the transcript is in fact
+from that instiitution, but without the indivdual's consent (sharing the secret key), the contents of the transcript would be unreadable.
+
+Truth be told, I have no experience with Blockchain technology, and just a high level understanding of encryption that would be required. This project may be outside
+of what is doable within the time allocated, but I thought that it would be an interesting opportunity to explore non-crypto applications of Blockchain.
