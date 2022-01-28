@@ -1,6 +1,6 @@
 # Maestro Builder GUI
 
-**Members: Ian Lumsden, Kae Saurez**
+**Members: Ian Lumsden, Kae Suarez**
 
 ## Intro/Background
 
