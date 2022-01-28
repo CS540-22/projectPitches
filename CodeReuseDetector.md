@@ -9,8 +9,8 @@ Needed expertise (language):
 3. Data collection (shell script)
 
 Team:  
-1. Mahmoud Jahanshahi -> data collection
-2. N/A
+1. Mahmoud Jahanshahi -> Data collection
+2. Kyungchan Lim -> Web UI
 3. N/A
 
 Please let me know if you like to join. mjahansh@vols
