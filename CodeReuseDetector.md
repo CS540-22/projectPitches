@@ -11,6 +11,6 @@ Needed expertise (language):
 Team:  
 1. Mahmoud Jahanshahi -> Data collection
 2. Kyungchan Lim -> Web UI
-3. N/A
+3. Vijay Rajagopal -> Backend/Web UI
 
 Please let me know if you like to join. mjahansh@vols
