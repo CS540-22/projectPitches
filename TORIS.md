@@ -1,7 +1,7 @@
 # TORIS:  TOpic modeler for Repositories In free open source Software
 
 This tool will aim to provide the functionality to discover and identify the topics related to the repositories part of the Free Open Source Software(FOSS) Ecosystem. 
-World of Code(WoC) will be used to collect the readme files of open-source software repositories as a stand in natural language descriptions of the repos. This will be achieved via Topic Modeling through Latent Dirichlet Al (LDA), which is a frequently used text-mining tool for the discovery of hidden semantic structures in a text body.
+World of Code(WoC) will be used to collect the readme files of open-source software repositories as a stand in natural language descriptions of the repos. 
 
 Skills:
 Data Collection, shell, python
