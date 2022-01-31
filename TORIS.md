@@ -5,7 +5,8 @@ This tool will aim to provide the functionality to discover and identify the top
 Skills:
 Data Collection, shell, python,
 NLP, Python,
-HCI, GUI/Web skills ( any platform)
+HCI, GUI/Web skills (any platform), 
+backend
 
 Members: 
 Addi Malviya thakur, 
