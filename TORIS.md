@@ -9,7 +9,7 @@ NLP, Python,
 HCI, GUI/Web skills ( any platform)
 
 Members: 
-Addi Malviya thakur 
-1 other interested- Maria Mahbub
+Addi Malviya thakur, 
+1 other person interested- Maria Mahbub
 
 If you are interested, please contact me at amalviya@vols.utk.edu
