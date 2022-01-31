@@ -30,6 +30,7 @@ TanukiUdon is a suite of developer tools to make developing in Unity easier and 
 
 ## Planned Features
 - Featured as a plugin for Unity
+- GLSL to HLSL (Direct integration with ShaderToy)
 - U# Code Snippet Library
 - U# GitHub Code Search
 - U# Autocomplete (IntelliSense style)
