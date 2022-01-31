@@ -12,4 +12,4 @@ Members:
 Addi Malviya thakur, 
 Maria Mahbub (NLP, Python)
 
-Still need a person for the web application and interface (full stack). If you are interested, please contact me at amalviya@vols.utk.edu
+Still need a person for the web application, interface and/or tool development (full stack). If you are interested, please contact me at amalviya@vols.utk.edu
