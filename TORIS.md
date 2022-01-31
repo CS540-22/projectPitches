@@ -10,6 +10,6 @@ backend
 
 Members: 
 Addi Malviya thakur, 
-1 other person interested- Maria Mahbub (NLP, Python)
+Maria Mahbub (NLP, Python)
 
-If you are interested, please contact me at amalviya@vols.utk.edu
+Still need a person for the web application and interface (full stack). If you are interested, please contact me at amalviya@vols.utk.edu
