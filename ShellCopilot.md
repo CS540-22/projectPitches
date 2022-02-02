@@ -1,4 +1,4 @@
-#### **Shell copilot**
+# **Shell copilot**
 
 Members:
 * Aiden Rutter
@@ -17,3 +17,4 @@ Some additional enhancements include:
 * Enhance prediction with additional context: history, working directory, PATH, return status, git context
 * Show your work: Get a natural language description of commands
 * Proceed with caution!: Display a warning in your powershell for potentially destructive commands. Get a natural language justification as to why.
+* Break it down: Summarize verbose documentation or logs.
