@@ -64,7 +64,7 @@ In actuality, we are still very far from achieving the goal of the project. Coll
 ============================================================================================
 
 
-# Git ASTdiff
+# Git ASTdiff Idea
 
 Uses a syntax tree of code changes from git commits to perform a structural / graph-based diff of code changes.
 
