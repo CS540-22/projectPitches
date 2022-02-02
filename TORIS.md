@@ -10,6 +10,8 @@ backend
 
 Members: 
 Addi Malviya thakur, 
-Maria Mahbub (NLP, Python)
+Maria Mahbub (NLP, Python), Elijah Berberette (UI)
 
-Still need a person for the web application, interface and/or tool development (full stack). If you are interested, please contact me at amalviya@vols.utk.edu
+Members complete. 
+
+contact: amalviya@vols.utk.edu
