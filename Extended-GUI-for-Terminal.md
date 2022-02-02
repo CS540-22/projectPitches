@@ -18,7 +18,4 @@ as well as sub-categories for things such as flags and other variables.
 Team:
   - ChaoHui: czheng4@vols.utk.edu
   - Hunter: hleef@vols.utk.edu
-  -
-  
-If this project piques your interest, contact one of us
-and we would be glad to have you on board.
+  - Ankush: 
