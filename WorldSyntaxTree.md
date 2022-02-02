@@ -1,6 +1,7 @@
 ## Project Idea
 
 Current Team members: Ben Klein (bklein3), Ben Roberson (brobers3)
+
 In need of 1-2 more team members!
 
 https://github.com/utk-se/WorldSyntaxTree
@@ -22,7 +23,7 @@ Right now only the infrastructure part of the project is working, what's needed 
 
 If you've ever used Neo4j you might have an idea of the interface we'd like to emulate. If not, there are some example WST query results used as the background of my post at https://unhexium.net/research/neo4j-performance-adventures-for-petabyte-scale-datasets/ and they look cool, right?
 
-======================================================================================================================
+============================================================================================
 
 
 # World Syntax Tree
@@ -60,7 +61,7 @@ In actuality, we are still very far from achieving the goal of the project. Coll
 
 - Ben Klein: original author of WST
 
-======================================================================================================================
+============================================================================================
 
 
 # Git ASTdiff
