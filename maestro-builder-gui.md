@@ -1,6 +1,6 @@
 # Maestro Builder GUI
 
-**Members: Ian Lumsden, Kae Suarez**
+**Members: Ian Lumsden (ilumsden@vols.utk.edu), Kae Suarez (dsuarez1@vols.utk.edu)**
 
 ## Intro/Background
 
