@@ -86,3 +86,4 @@ Essentially it allows for diffs to be viewed / parsed / generated in a similar m
 ## Implementation
 
 The plan is to create a git command that operates in the same context and arguments as `git diff`. Using WorldSyntaxTree we can efficiently generate graph data from source code, so we need to implement the CLI, graph diff, UX, and other functionality options.
+
