@@ -24,3 +24,4 @@ If anyone has any questions or comments or wants to work with me on this feel fr
 Members:
 - Alan Hencey (ahencey@vols.utk.edu)
 - David Gilson (dgilson@utk.edu)
+- Jacob Samar (jsamar1@vols.utk.edu)
