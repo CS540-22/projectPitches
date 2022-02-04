@@ -7,7 +7,7 @@ CodeRibbon but for VSCode\*!
 
 ## CodeRibbon???
 
-https://utk-se.github.io/CodeRibbon/
+https://coderibbon.github.io/CodeRibbon/
 
 https://austinhenley.com/pubs/Klein2021ICSME_CodeRibbon.pdf
 
