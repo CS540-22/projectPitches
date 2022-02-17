@@ -8,7 +8,7 @@ Needed expertise (language):
 2. Backend (your choice)
 3. Data collection (shell script)
 
-Team:  
+Team:  * From the top
 1. Mahmoud Jahanshahi -> Data collection
 2. Kyungchan Lim -> Web UI
 3. Vijay Rajagopal -> Backend/Web UI
