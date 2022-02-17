@@ -20,3 +20,8 @@ Building blocks:
 
 I (Alan Hencey) am very comfortable with Python and SQL but I am not very good with anything frontend or UI related.
 If anyone has any questions or comments or wants to work with me on this feel free to email me at ahencey@vols.utk.edu.
+
+Members:
+- Alan Hencey (ahencey@vols.utk.edu)
+- David Gilson (dgilson@utk.edu)
+- Jacob Samar (jsamar1@vols.utk.edu)

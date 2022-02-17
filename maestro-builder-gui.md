@@ -1,6 +1,6 @@
 # Maestro Builder GUI
 
-**Members: Ian Lumsden, Kae Suarez**
+**Members (2): Ian Lumsden (ilumsden@vols.utk.edu), Kae Suarez (dsuarez1@vols.utk.edu)**
 
 ## Intro/Background
 
@@ -31,3 +31,13 @@ In terms of implementation, three broad approaches are currently being considere
 1. Design the GUI as a fully native app (e.g., with a library like Qt)
 2. Design the GUI as a web app
 3. Design the GUI in a way that would allow it to be built as either a native app or a WASM binary (e.g., write with Qt then compile with Emscripten or GCC/Clang)
+
+## January 31 Update:
+
+To make this project more feasible for the course, the concept above has been broken down into 4 goals:
+1. Create a visualizer that will take a Maestro YAML file and visualize the workflow in a Canvas
+2. Add forms to the visualizer to allow for workflow elements to be added, edited, or deleted
+3. Add the ability to export the workflow state to a Maestro YAML file using a form
+4. Add the ability to execute Maestro on the current system
+
+In this project, we will try to perform as many of these goals as is feasible. At the very least, we will complete the first goal.
